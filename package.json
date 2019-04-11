@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/htbkoo/spike-tensorflow-js/issues"
   },
-  "homepage": "https://github.com/htbkoo/spike-tensorflow-js#readme"
+  "homepage": "https://github.com/htbkoo/spike-tensorflow-js#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "jest": "^24.7.1",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.4.3"
+  }
 }
