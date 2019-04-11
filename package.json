@@ -1,0 +1,24 @@
+{
+  "name": "spike-tensorflow-js",
+  "version": "0.1.0",
+  "description": "Spike using tensofFlow.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htbkoo/spike-tensorflow-js.git"
+  },
+  "keywords": [
+    "tensorFlow.js",
+    "Keras",
+    "typescript"
+  ],
+  "author": "htbkoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/htbkoo/spike-tensorflow-js/issues"
+  },
+  "homepage": "https://github.com/htbkoo/spike-tensorflow-js#readme"
+}
